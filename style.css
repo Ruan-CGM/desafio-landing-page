@@ -130,7 +130,7 @@ p:hover {
     text-shadow: 1px 0px 2px #fffa28, 0px 1px 2px #fffa28, -1px 0px 2px #fffa28, 0px -1px 2px #fffa28;
 }
 
-@media(min-width:300px) and (max-width:720px) {
+@media(max-width:775px) {
     html {
         background-repeat: no-repeat;
         /* background-position: inherit; */
@@ -149,7 +149,7 @@ p:hover {
     }
 
     .bg-black-f {
-        width: 700px;
+        width: 100%;
     }
     
     .venda-black-friday {
@@ -180,7 +180,7 @@ p:hover {
     }
 }
 
-@media(max-width: 390px) {
+@media(max-width: 660px) {
     html {
         background-repeat: no-repeat;
         /* background-position: inherit; */
